@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "HWSSIS", "HWSSIS\HWSSIS.dtproj", "{F19DD3A6-D237-4444-AD2F-6E6EB606C8B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F19DD3A6-D237-4444-AD2F-6E6EB606C8B8}.Development|Default.ActiveCfg = Development
+		{F19DD3A6-D237-4444-AD2F-6E6EB606C8B8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548F8ED1-87A2-4B21-AFE3-8057F215F8B2}
+	EndGlobalSection
+EndGlobal
